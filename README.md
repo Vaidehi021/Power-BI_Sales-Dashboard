@@ -45,3 +45,6 @@ Helps management recognize top customers and revenue-driving markets.
 Supports inventory and product strategy by highlighting category-wise demand.
 Provides visibility into customer payment preferences for improved operational planning.
 Facilitates faster, data-driven decision-making through interactive and real-time visual analysis.
+
+Snapshot of Power BI
+
