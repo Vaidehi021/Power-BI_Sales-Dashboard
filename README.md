@@ -1,7 +1,9 @@
 #Power BI Sales Dashboard
 Short Description:
+
 This interactive Sales Dashboard provides a comprehensive overview of business performance by tracking key sales metrics, profitability, customer trends, and regional performance. It enables stakeholders to monitor KPIs, identify high-performing segments, and make data-driven business decisions.
 2. Tech Stack:
+
 Power BI Desktop – Dashboard development & data visualization
 Power Query – Data cleaning and transformation
 DAX (Data Analysis Expressions) – KPI calculations and custom measures
@@ -46,5 +48,5 @@ Supports inventory and product strategy by highlighting category-wise demand.
 Provides visibility into customer payment preferences for improved operational planning.
 Facilitates faster, data-driven decision-making through interactive and real-time visual analysis.
 
-Snapshot of Power BI
+
 
