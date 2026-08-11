@@ -1,7 +1,7 @@
 #Power BI Sales Dashboard
 
 
-This interactive Sales Dashboard provides a comprehensive overview of business performance by tracking key sales metrics, profitability, customer trends, and regional performance. It enables stakeholders to monitor KPIs, identify high-performing segments, and make data-driven business decisions.
+**Short Description: **This interactive Sales Dashboard provides a comprehensive overview of business performance by tracking key sales metrics, profitability, customer trends, and regional performance. It enables stakeholders to monitor KPIs, identify high-performing segments, and make data-driven business decisions.
 
 
 Power BI Desktop – Dashboard development & data visualization
