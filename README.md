@@ -1,23 +1,23 @@
 #Power BI Sales Dashboard
-1. Short Description 
+Short Description:
 This interactive Sales Dashboard provides a comprehensive overview of business performance by tracking key sales metrics, profitability, customer trends, and regional performance. It enables stakeholders to monitor KPIs, identify high-performing segments, and make data-driven business decisions.
-2. Tech Stack
+2. Tech Stack:
 Power BI Desktop – Dashboard development & data visualization
 Power Query – Data cleaning and transformation
 DAX (Data Analysis Expressions) – KPI calculations and custom measures
 Data Modeling – Relationship creation between Orders and Details tables
 Interactive Visualizations – Cards, Bar Charts, Column Charts, Donut Charts, and Slicers
 
-3. Data Source
+3. Data Source:
 The dashboard is built using transactional sales data consisting of two related datasets:
 Orders Table: Order Date, Customer Name, State, and Order-related information.
 Details Table: Sales Amount, Quantity, Profit, Category, Sub-Category, Payment Mode, and Average Order Value (AOV).
 The datasets are connected through a relational data model to enable comprehensive sales analysis across multiple business dimensions.
 
-4. Business Problem
+4. Business Problem:
 Businesses often struggle to gain a consolidated view of sales performance across regions, customers, product categories, and payment methods. Static reports make it difficult to identify trends, monitor profitability, and make timely decisions.
 
-5. Goal of the Dashboard
+5. Goal of the Dashboard:
 The objective of this dashboard is to provide an interactive sales performance monitoring solution that enables management to:
 
 Track key business KPIs in real time.
@@ -39,7 +39,7 @@ Category-wise Quantity Distribution showing sales mix across product categories.
 Payment Mode Analysis to understand customer payment preferences.
 Interactive Filters (Quarter & State) enabling dynamic drill-down and customized analysis.
 
-7. Business Impact and Insights
+7. Business Impact and Insights:
 8. Enables quick identification of the most profitable products and regions.
 Helps management recognize top customers and revenue-driving markets.
 Supports inventory and product strategy by highlighting category-wise demand.
