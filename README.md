@@ -48,4 +48,5 @@ Facilitates faster, data-driven decision-making through interactive and real-tim
 8. Snapshot of the Dashboard:
 https://github.com/Vaidehi021/Power-BI_Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
-PK
+9. Link to download the dashboard:
+https://github.com/Vaidehi021/Power-BI_Sales-Dashboard/blob/main/Power%20BI_Sales%20Dashboard.pbix
