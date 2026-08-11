@@ -45,5 +45,8 @@ Supports inventory and product strategy by highlighting category-wise demand.
 Provides visibility into customer payment preferences for improved operational planning.
 Facilitates faster, data-driven decision-making through interactive and real-time visual analysis.
 
+8. Snapshot of the Dashboard:
+https://github.com/Vaidehi021/Power-BI_Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
+
 
 
