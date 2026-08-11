@@ -26,9 +26,9 @@ Understand purchasing patterns and payment preferences.
 
 6. Key Dashboard Visuals :
 KPI Cards displaying:
-Total Sales
-Total Quantity Sold
-Total Profit
+Total Sales,
+Total Quantity Sold,
+Total Profit &
 Average Order Value (AOV)
 
 Monthly Profit Trend to monitor profit performance over time.
